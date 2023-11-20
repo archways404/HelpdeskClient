@@ -1,3 +1,7 @@
+# THIS PROJECT IS NO LONGER IN ACTIVE DEVELOPMENT
+A newer version will be coming out shortly here:
+https://github.com/archways404/ModernPrimulaApp/tree/main
+
 
 # Helpdesk Client
 
